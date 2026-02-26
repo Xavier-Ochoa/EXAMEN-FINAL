@@ -136,3 +136,20 @@ npm run dev
 1. Importar carpeta `frontend` en Vercel
 2. Agregar variable de entorno: `VITE_API_URL=https://url-del-backend.vercel.app/api`
 3. Framework preset: **Vite**
+
+### PRUEBAS DE RENDIMIENTO
+
+### Login:
+<img width="1913" height="937" alt="image" src="https://github.com/user-attachments/assets/84fe5312-2216-43d5-8580-5a6d93beae9d" />
+
+### Dashboard:
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/1171c3d6-5332-4443-980d-a8cf42c5781e" />
+
+### Auditorios:
+<img width="1910" height="970" alt="image" src="https://github.com/user-attachments/assets/cc8ff953-b164-483f-88c0-bc7dfe71d356" />
+
+### Conferencistas:
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/2342c054-6e9a-4d61-a9a6-2218c5c8c625" />
+
+### Reservas:
+<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/44b52bb8-2839-4a4a-ae44-cbec19b6690a" />
