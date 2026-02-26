@@ -16,6 +16,11 @@ C5gestion_conferencias/
 
 ## ⚙️ Backend    https://examen-final-khaki.vercel.app
 
+### Credenciales de acceso
+
+- Correo electrónico: lxoc@gmail.com
+- Contraseña: 123456
+
 
 ### Tecnologías
 - Node.js + Express 4
